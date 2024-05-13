@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Haider Ali
 - 👀 I’m interested in web Developmen 
 - 🌱 I’m currently doing Information Technology From FCIT
-- <h2>My Skills</h2>
