@@ -6,11 +6,11 @@ Greetings! I'm a passionate Full-Stack Developer with hands-on experience in bui
 ---
 
 ### 🚀 About Me:
-- Continuously learning **Full-Stack Development** with practical experience in **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, and Firebase**.
+- Continuously learning **Full-Stack Development** with practical experience in **React.js,Node.js, Express.js, MongoDB, MySQL, and Firebase**.
 - Implemented **authentication, CRUD operations, and API integrations** in various projects.
 - Passionate about **DSA**, actively solving problems on **LeetCode** and participating in competitive coding challenges.
 - Always exploring **new technologies and frameworks** to stay updated with industry trends.
-- Strong understanding of **Git, Agile methodologies, and software engineering best practices**.
+- Strong understanding of **Git/Github**.
 
 ---
 ## My Tech Stack:
@@ -37,7 +37,7 @@ Dedicated to building innovative and scalable web applications, I have worked on
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haiderali723)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali21/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderAli777)
 
 ---
@@ -48,10 +48,8 @@ Dedicated to building innovative and scalable web applications, I have worked on
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REDUX THUNK](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JAVA](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,8 +58,6 @@ Dedicated to building innovative and scalable web applications, I have worked on
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REACT-ROUTER_DOM](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![REST API](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -90,8 +86,8 @@ Dedicated to building innovative and scalable web applications, I have worked on
 
 ### 📩 Connect With Me:
 [![Gmail](https://img.shields.io/badge/Email-ha7325897@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha7325897@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HaiderAli-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haiderali273)
-[![GitHub](https://img.shields.io/badge/GitHub-HaiderAli277-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderAli277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HaiderAli-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haider-ali21/)
+[![GitHub](https://img.shields.io/badge/GitHub-HaiderAli777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiderAli777)
 
 ---
 
