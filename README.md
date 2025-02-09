@@ -1,7 +1,7 @@
 ## Hi 👋, My name is Haider Ali
 ### I'm a Full-Stack Software Engineer
 
-Greetings! I'm a passionate Full-Stack Developer with hands-on experience in building and deploying scalable web applications using the **MERN Stack**. I am highly enthusiastic about solving real-world problems through technology and constantly improving my skills in **Data Structures and Algorithms (DSA)** through competitive programming.
+Greetings! I'm a passionate Full-Stack Developer with hands-on experience in building and deploying scalable web applications using the **MERN Stack**. I am highly enthusiastic about solving real-world problems through technology and constantly improving my skills in **Data Structures and Algorithms (DSA)**.
 
 ---
 
@@ -29,7 +29,7 @@ GitHub
 
 ---
 
-Dedicated to building innovative and scalable web applications, I have worked on multiple full-stack MERN projects. I am passionate about clean code, efficient architecture, and seamless user experiences. My expertise includes third-party integrations such as Payment Gateways (Stripe, PayPal, Razorpay), Authentication (Auth0), Social Media Integration, and Google Maps.
+Dedicated to building innovative and scalable web applications, I have worked on multiple full-stack MERN projects. I am passionate about clean code, efficient architecture, and seamless user experiences. My expertise includes third-party integrations such as Payment Gateways (Stripe).
 
 📍 I'm based in Pakistan  
 📧 You can contact me at **ha7325897@gmail.com**
@@ -67,19 +67,22 @@ Dedicated to building innovative and scalable web applications, I have worked on
 ### Haider Ali's GitHub Stats
 
 ![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaiderAli777&show_icons=true&theme=radical)
-
-![Total Contributions](https://komarev.com/ghpvc/?username=HaiderAli777&color=green) ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaiderAli777&theme=radical)
-
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderAli777&layout=compact&theme=radical)
+<div align="leftr">
+  
+  ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaiderAli777&theme=radical)  
+  <br>  
+  ![Total Contributions](https://komarev.com/ghpvc/?username=HaiderAli777&color=green)  
+
+</div>
+
+
+
 
 ---
-### 🔝 Top Contributed Repositories
 
-- [TechHub](https://github.com/HaiderAli727/TechHub-Elevate-Learning-Beyond-Borders) ⭐️
-- [Real Estate Application](https://github.com/HaiderAli777/Real-Estate-Application) ⭐️
-- [Food Delivery App](https://github.com/HaiderAli727/Food-Application) ⭐️
 ---
 
 
