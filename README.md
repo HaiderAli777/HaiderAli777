@@ -72,8 +72,9 @@ Dedicated to building innovative and scalable web applications, I have worked on
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderAli777&layout=compact&theme=radical)
 <div align="leftr">
   
- ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaiderAli777&theme=radical)  
-![Total Contributions](https://komarev.com/ghpvc/?username=HaiderAli777&color=green)
+![Current Streak](https://github-readme-streak-stats.vercel.app/?user=HaiderAli777&theme=radical)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-100-brightgreen)
+
 
 
 </div>
