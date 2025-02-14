@@ -8,9 +8,9 @@ Greetings! I'm a passionate Full-Stack Developer with hands-on experience in bui
 ### 🚀 About Me:
 - Continuously learning **Full-Stack Development** with practical experience in **React.js,Node.js, Express.js, MongoDB, and MySQL**.
 - Implemented **authentication, CRUD operations, and API integrations** in various projects.
-- Passionate about **DSA**, actively solving problems on **LeetCode** and participating in competitive coding challenges.
 - Always exploring **new technologies and frameworks** to stay updated with industry trends.
-- Strong understanding of **Git/Github**.
+- Basic understanding of **Git/Github**.
+- Started learning about **DSA**, actively solving problems on **LeetCode**.
 
 ---
 ## My Tech Stack:
